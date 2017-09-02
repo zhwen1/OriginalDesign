@@ -10,7 +10,7 @@ Posting your finished program to GitHub
 =======================================
 When you are finished, follow the instructions for either the [basic](https://github.com/APCSLowell/SampleAssignmentSimple) or [advanced workflow](https://github.com/APCSLowell/SampleAssignment) to post your program to GitHub. Start by logging into GitHub and forking [this](https://github.com/LowellSampleClass/OriginalDesign) repository.  
 
-Now, replace the Java code in the `OriginalDesign.pde` file with the code for your own design. You will also need to modify `index.html` to personalize the title, headline and footer. Submit the link to your finished program to google classroom.
+Now, replace the Java code in the `OriginalDesign.pde` file with the code for your own design. You will also need to modify `index.html` to personalize the title, headline and footer. Once you are happy with your program, `add`, `commit` and `push` your work to GitHub. Submit the link to your finished program to google classroom.
 
 Samples of Student Work
 -----------------------
