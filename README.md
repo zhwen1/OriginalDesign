@@ -14,6 +14,7 @@ Now, replace the Java code in the `OriginalDesign.pde` file with the code for yo
 
 Samples of Student Work
 -----------------------
+[Kris](https://potato-krisu.github.io/OriginalDesign/)   
 [Tatyana](https://tgrishanina.github.io/OriginalDesign/)   
 [Katie](https://ktay369.github.io/OriginalDesign/)   
 [Alyssa](https://alyangelxd.github.io/OriginalDesign/)   
