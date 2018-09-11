@@ -4,9 +4,11 @@
 }
 
 void draw(){
+  background(255);
+  bamboo();
   head();
   face();
-  bamboo();
+  
 }
 
 int x = 500;
@@ -33,8 +35,17 @@ void face(){
   ellipse(350,630,75,30); //blush
   ellipse(650,630,75,30);
 }
-
+int y = 0;
+int z = 0;
 void bamboo(){
-  
+  fill(#2fb52d);
+  rect(z,y,70,1000);
+  if(z<1001){
+    z= z+5;
+  }
+  if(z>1000){
+    z=0;
+  }
+
 }
   
